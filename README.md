@@ -3,8 +3,8 @@
 # Hi there, I'm Hoda Mostafa 👋
 ### Flutter Mobile App Developer | Clean Architecture & MVVM
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://hodamostafa.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoda-mostafa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://hodamostafa.github.io/odamostafa.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoda-mostafa-80a8ba253/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoda.aaaa1774@gmail.com)
 
 </div>
