@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Hoda Mostafa 👋
 ### Flutter Mobile App Developer | Clean Architecture & MVVM
 
@@ -10,9 +12,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 📱 **Mobile App Developer** with **2.5+ years** of experience building production cross-platform apps (Android, iOS, Web & Enterprise Kiosks)[cite: 2, 5].
-- 🏗️ Passionate about **Clean Architecture**, **MVVM**, scalable state management (**Riverpod**, **Bloc**, **Provider**), and pixel-consistent UI from Figma[cite: 3, 5, 6].
-- 🎓 Studying **Business Information Systems (BIS)** at Al-Alson Institute & graduate of the **IBM P-TECH** 5-year software & cybersecurity program[cite: 7].
+- 📱 **Mobile App Developer** with **2.5+ years** of experience building production cross-platform apps (Android, iOS, Web & Enterprise Kiosks).
+- 🏗️ Passionate about **Clean Architecture**, **MVVM**, scalable state management (**Riverpod**, **Bloc**, **Provider**), and pixel-consistent UI from Figma.
+- 🎓 Studying **Business Information Systems (BIS)** at Al-Alson Institute & graduate of the **IBM P-TECH** 5-year software & cybersecurity program.
 
 ---
 
