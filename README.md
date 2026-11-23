@@ -1,18 +1,3 @@
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-23 at 5 34 24 PM" src="https://github.com/user-attachments/assets/b00d387b-c523-4224-a8f0-d8609e64847d" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-23 at 5 34 24 PM (4)" src="https://github.com/user-attachments/assets/65135358-9a3b-495d-9bc1-24922d9a89e2" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 34 24 PM (3)" src="https://github.com/user-attachments/assets/362c2b74-1e68-4aef-9fa9-5128ff829383" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 34 24 PM (2)" src="https://github.com/user-attachments/assets/e551b323-8a9d-46b0-abb7-ac51515c8e4d" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-23 at 5 34 24 PM (1)" src="https://github.com/user-attachments/assets/03a82673-777f-40fa-9917-1b6519254d61" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 22 PM" src="https://github.com/user-attachments/assets/14200d8d-cfd5-48c5-b33f-bfda5a191a25" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 22 PM (2)" src="https://github.com/user-attachments/assets/67b3c957-d079-4183-bd7f-803e5821103f" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 22 PM (1)" src="https://github.com/user-attachments/assets/098f3f3c-abbc-4e4d-b726-454fdc47c474" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 21 PM" src="https://github.com/user-attachments/assets/b1a86320-6002-4756-a706-a55385a387e9" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 21 PM (1)" src="https://github.com/user-attachments/assets/f01adfaf-a210-45a1-a5a0-1cd4adbc3c2a" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 20 PM" src="https://github.com/user-attachments/assets/85cbca3c-ce27-41c2-9eb8-4287ef51c6fb" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 20 PM (3)" src="https://github.com/user-attachments/assets/05fc9e09-3fc8-41c6-b233-9abff0792b05" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 20 PM (2)" src="https://github.com/user-attachments/assets/1be46b8e-25a9-4ffe-807e-2c915940230b" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 5 33 20 PM (1)" src="https://github.com/user-attachments/assets/b90ae2c3-831e-467c-aa8c-9470be5ccec4" />
-
 # Hi there, I'm Hoda Mostafa 👋
 ### Flutter Mobile App Developer | Clean Architecture & MVVM
 
